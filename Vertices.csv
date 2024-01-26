@@ -304,18 +304,18 @@ Caudoputamen
 Nucleus accumbens
 Fundus of striatum
 Olfactory tubercle
+Septofimbrial nucleus
+Septohippocampal nucleus
 "Lateral septal nucleus, caudal (caudodorsal) part"
 "Lateral septal nucleus, rostral (rostroventral) part"
 "Lateral septal nucleus, ventral part"
-Septofimbrial nucleus
-Septohippocampal nucleus
 Anterior amygdalar area
 Bed nucleus of the accessory olfactory tract
+Intercalated amygdalar nucleus
+Medial amygdalar nucleus
 "Central amygdalar nucleus, capsular part"
 "Central amygdalar nucleus, lateral part"
 "Central amygdalar nucleus, medial part"
-Intercalated amygdalar nucleus
-Medial amygdalar nucleus
 "Globus pallidus, external segment"
 "Globus pallidus, internal segment"
 Substantia innominata
@@ -558,14 +558,14 @@ Nucleus raphe magnus
 Nucleus raphe pallidus
 Nucleus raphe obscurus
 Lingula (I)
-Lobule II
-Lobule III
-Lobules IV-V
 Declive (VI)
 Folium-tuber vermis (VII)
 Pyramus (VIII)
 Uvula (IX)
 Nodulus (X)
+Lobule II
+Lobule III
+Lobules IV-V
 Simple lobule
 Paramedian lobule
 Copula pyramidis
@@ -600,16 +600,16 @@ lateral lemniscus
 inferior colliculus commissure
 brachium of the inferior colliculus
 vestibular nerve
-cuneate fascicle
-medial lemniscus
 solitary tract
+medial lemniscus
+cuneate fascicle
 cerebellar commissure
+arbor vitae
+middle cerebellar peduncle
 uncinate fascicle
 ventral spinocerebellar tract
-middle cerebellar peduncle
 superior cerebellar peduncle decussation
 dorsal spinocerebellar tract
-arbor vitae
 supra-callosal cerebral white matter
 "corpus callosum, extreme capsule"
 genu of corpus callosum
@@ -633,13 +633,13 @@ amygdalar capsule
 "anterior commissure, temporal limb"
 cingulum bundle
 alveus
+dorsal fornix
+fimbria
 medial corticohypothalamic tract
 columns of the fornix
 dorsal hippocampal commissure
 ventral hippocampal commissure
 commissural branch of stria terminalis
-dorsal fornix
-fimbria
 medial forebrain bundle
 supraoptic commissures
 principal mammillary tract
